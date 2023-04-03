@@ -74,7 +74,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://drive.google.com/file/d/1bugE64C9S8iGPemi-OlKwCqEiVsw9944/view?usp=sharing" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://ibb.co/XjkVhYG" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
