@@ -1,4 +1,7 @@
-# IntegrativeProject 1
+# Integrative Project 1
+
+
+## 💻 Theme Description  
 
 A criação de interfaces com boa usabilidade e de maneira fácil passam pelas tecnologias usadas,
 assim como a forma de aprendizado das tecnologias. Dessa forma, a criação de material para ensino
@@ -15,7 +18,17 @@ dados são empregadas no algoritmo, o grupo aprenderá melhor a organização da
 algoritmo, além de observar na prática a aplicação das estruturas de dados. Dessa maneira, os
 conhecimento das estruturas de dados como listas são importantes.
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+## 🚀 Product 
+
+O grupo elaborará um tutorial para criação de interfaces gráficas para usuário em Java, usando apenas
+JavaFX, sem emprego de outro framework. O tutorial terá versão em texto e vídeo. O texto será
+em formato de página Web e deverá ser hospedado para acesso aberto ao público. Os vídeos serão
+disponibilizados no YouTube. O texto do tutorial e a narração dos vídeos empregarão o português de
+maneira correta e serem de fácil compreensão.
+A aparência das interfaces devem ser modernas e atuais, como as empregadas nos principais aplicativos
+e sistemas Web. A customização dos elementos da interface com CSS também é necessária.
+
+## 🛠 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 Francisco André Rodrigues Farias:
 - [ ] Tarefa 1 (Instalação e configuração do ambiente de desenvolvimento no Windows e Linux)
@@ -50,3 +63,38 @@ Joao Victor de Oliveira Rodrigues:
 - [ ] Tarefa 3  (Tabs)
 - [ ] Tarefa 4  (Separadores)
 - [ ] Tarefa 5  (Janela de diálogo (pop-up, modal, notificação, etc))
+
+
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://drive.google.com/file/d/1bugE64C9S8iGPemi-OlKwCqEiVsw9944/view?usp=sharing" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Mark Zuckerberg</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
