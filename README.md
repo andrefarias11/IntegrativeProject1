@@ -64,5 +64,5 @@ Joao Victor de Oliveira Rodrigues:
 - [ ] Tarefa 4  (Separadores)
 - [ ] Tarefa 5  (Janela de diálogo (pop-up, modal, notificação, etc))
 
-
+.
 
